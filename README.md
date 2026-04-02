@@ -12,9 +12,15 @@
 - Python (básico-intermedio)
 
 ## Proyectos
-- Aphidex → https://github.com/ByteShark-dev/Aphidex-Data
-- (Próximamente) Homelab Nextcloud
+### Aphidex (en desarrollo)
+Aplicación enfocada en gestión de datos offline.
 
+- Estructuración de datos
+- Manejo de archivos
+- Base para futura app completa
+
+Repositorio:
+https://github.com/ByteShark-dev/Aphidex-Data
 ## Actualmente
 - Mejorando mi servidor personal
 - Aprendiendo sobre seguridad en sistemas
