@@ -11,7 +11,7 @@
 - Redes básicas (puertos, NAT)
 - Python (básico-intermedio)
 
-## 🧠 Experiencia práctica
+## Experiencia práctica
 - Configuración de servidor Linux
 - Instalación y gestión de servicios (Nextcloud)
 - Manejo de puertos y acceso de red
