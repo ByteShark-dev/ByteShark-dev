@@ -11,6 +11,12 @@
 - Redes básicas (puertos, NAT)
 - Python (básico-intermedio)
 
+## 🧠 Experiencia práctica
+- Configuración de servidor Linux
+- Instalación y gestión de servicios (Nextcloud)
+- Manejo de puertos y acceso de red
+- Resolución de problemas en entorno real
+
 ## Proyectos
 ### Aphidex (en desarrollo)
 Aplicación enfocada en gestión de datos offline.
