@@ -57,12 +57,6 @@ Incluye desarrollo web, sistemas administrativos, automatizaciones, asistentes c
 
 ---
 
-## Research & Experiments
-
-**ChromeOS Flex on QEMU/KVM (2026)** — Experimental compatibility notes on Linux virtualization and a self-owned Google Forms Locked Mode demo. [English report](research/chromeos-flex-qemu-2026/README.md) · [Informe en español](research/chromeos-flex-qemu-2026/README.es.md)
-
----
-
 ## More Projects
 
 **ByteShark Business Manager** — CRM / ERP demo para pequeños negocios  
